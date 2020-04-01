@@ -25,7 +25,10 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-code { 
-    font-family: Consolas, monospace; 
-    font-size: inherit; 
-}
+a:link {
+    text-decoration: none;
+  }
+a:visited {
+    color: blue;
+    text-decoration: none;
+  }
