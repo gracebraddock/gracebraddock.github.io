@@ -1,0 +1,5 @@
+name: Grace Braddock
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+encoding: UTF-8
+google_analytics: UA-124812143-2
