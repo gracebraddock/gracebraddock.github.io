@@ -36,3 +36,11 @@ a:visited {
 #size {
     font-size: xx-small;
 }
+
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
