@@ -70,7 +70,7 @@ a:visited {
 }
 
 .button-container {
-    top: -20px;
+    top: -10px;
     position: relative;
 }
 
@@ -87,9 +87,9 @@ a:visited {
 }
 
 #slider-image-2:target ~ .image-container {
-    left: -800px;
+    left: -760px;
 }
 
 #slider-image-3:target ~ .image-container {
-    left: -1600px;
+    left: -1520px;
 }
